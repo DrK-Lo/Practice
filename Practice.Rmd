@@ -13,6 +13,7 @@ When you click the **Knit** button a document will be generated that includes bo
 #Comment
 summary(cars)
 head(cars)
+cars[1]
 ```
 
 ## Stage 2 data analysis
