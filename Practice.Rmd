@@ -21,6 +21,7 @@ You can also embed plots, for example:
 
 ```{r, echo=FALSE, fig.height=8}
 plot(cars)
+plot(cars$dist,cars$speed)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
