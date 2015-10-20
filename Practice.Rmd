@@ -13,7 +13,11 @@ When you click the **Knit** button a document will be generated that includes bo
 #Comment
 summary(cars)
 head(cars)
+<<<<<<< Updated upstream
 cars[3]
+=======
+cars[2]
+>>>>>>> Stashed changes
 ```
 
 ## Stage 2 data analysis
