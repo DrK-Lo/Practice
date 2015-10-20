@@ -30,3 +30,4 @@ plot(cars$dist,cars$speed)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+What's with the octopus cats? Programmers are weird...
