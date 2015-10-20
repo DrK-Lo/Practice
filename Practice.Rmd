@@ -16,7 +16,7 @@ head(cars)
 
 cars[3]
 cars[2]
-
+str(cars)
 ```
 
 ## Stage 2 data analysis
